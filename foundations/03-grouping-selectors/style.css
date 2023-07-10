@@ -1,0 +1,13 @@
+.FirEl{
+    background-color: black;
+    color: white;
+}
+
+.SecEl{
+    background-color: yellow;
+}
+
+.FirEl, .SecEl{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
